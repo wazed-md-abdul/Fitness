@@ -14,7 +14,7 @@ A modern, responsive fitness landing page built to showcase clean UI design and 
 ## 🛠️ Tech Stack
 - **HTML5:** Semantic structure for better SEO and accessibility.
 - **Tailwind CSS:** For rapid and modern utility-first styling.
-- **JavaScript:** (Add this if you plan to include interactive elements like mobile menus or counters).
+- **JavaScript:** (Upcoming!!).
 
 ## 📸 Preview
 ![Project Screenshot](./images/screenshot.png) *(Note: Add a screenshot of your site to the images folder and link it here)*
