@@ -3,7 +3,7 @@
 A modern, responsive fitness landing page built to showcase clean UI design and efficient styling using Tailwind CSS. This project is part of my continuous coding journey to master front-end development.
 
 ## 🚀 Live Demo
-[[Live Link of This site]](https://wazed-md-abdul.github.io/Fitness/)
+[[Live Link of This Wsite]](https://wazed-md-abdul.github.io/Fitness/)
 
 ## ✨ Features
 - **Responsive Design:** Fully optimized for mobile, tablet, and desktop views.
